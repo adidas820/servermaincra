@@ -8115,15 +8115,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/misc/purple_dye_from_violet": {
-    "criteria": {
-      "has_flower": "2025-03-29 10:27:53 +0100"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/wolf": {
     "criteria": {
       "has_bone": "2025-03-29 10:10:23 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_violet": {
+    "criteria": {
+      "has_flower": "2025-03-29 10:27:53 +0100"
     },
     "done": true
   },
