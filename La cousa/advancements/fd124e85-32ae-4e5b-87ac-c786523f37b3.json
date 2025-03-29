@@ -1,0 +1,465 @@
+{
+  "storagedrawers:recipes/storagedrawers/one_stack_upgrade": {
+    "criteria": {
+      "has_template": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-03-29 10:32:15 +0100"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-03-29 10:24:04 +0100"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-03-29 10:32:15 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/illumination_upgrade": {
+    "criteria": {
+      "has_template": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/warped": {
+    "criteria": {
+      "has_warped": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-03-29 10:32:15 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-03-29 10:32:15 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/acacia_trim": {
+    "criteria": {
+      "has_planks": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_color": {
+    "criteria": {
+      "has_red_balloon": "2025-03-29 10:31:06 +0100",
+      "has_black_balloon": "2025-03-29 10:31:06 +0100",
+      "has_lime_balloon": "2025-03-29 10:31:06 +0100",
+      "has_cyan_balloon": "2025-03-29 10:31:06 +0100",
+      "has_light_blue_balloon": "2025-03-29 10:31:06 +0100",
+      "has_gray_balloon": "2025-03-29 10:31:06 +0100",
+      "has_pink_balloon": "2025-03-29 10:31:06 +0100",
+      "has_light_gray_balloon": "2025-03-29 10:31:06 +0100",
+      "has_white_balloon": "2025-03-29 10:31:06 +0100",
+      "has_blue_balloon": "2025-03-29 10:31:06 +0100",
+      "has_yellow_balloon": "2025-03-29 10:31:06 +0100",
+      "has_purple_balloon": "2025-03-29 10:31:06 +0100",
+      "has_orange_balloon": "2025-03-29 10:31:06 +0100",
+      "has_brown_balloon": "2025-03-29 10:31:06 +0100",
+      "has_green_balloon": "2025-03-29 10:31:06 +0100",
+      "has_magenta_balloon": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/concealment_key": {
+    "criteria": {
+      "has_template": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "clover_patch": "2025-03-29 10:24:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-03-29 10:32:15 +0100"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/ship_helm": {
+    "criteria": {
+      "has_gold": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-03-29 10:32:15 +0100"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_membrane": {
+    "criteria": {
+      "has_membrane": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/gold_storage_upgrade": {
+    "criteria": {
+      "has_template": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/stone": {
+    "criteria": {
+      "has_stone": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/sandstone": {
+    "criteria": {
+      "has_sand": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-03-29 10:32:15 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/birch_trim": {
+    "criteria": {
+      "has_planks": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/void_upgrade": {
+    "criteria": {
+      "has_template": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/fill_level_upgrade": {
+    "criteria": {
+      "has_template": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-03-29 10:32:15 +0100"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-03-29 10:32:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-03-29 10:32:15 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2025-03-29 10:32:15 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-03-29 10:32:15 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-03-29 10:32:15 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/oak_trim": {
+    "criteria": {
+      "has_planks": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/emerald_storage_upgrade": {
+    "criteria": {
+      "has_template": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/obsidian_storage_upgrade": {
+    "criteria": {
+      "has_template": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/iron_storage_upgrade": {
+    "criteria": {
+      "has_template": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-03-29 10:32:15 +0100"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/diamond_storage_upgrade": {
+    "criteria": {
+      "has_template": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2025-03-29 10:32:15 +0100"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mangrove": {
+    "criteria": {
+      "has_mangrove": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-03-29 10:32:15 +0100"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/nether": {
+    "criteria": {
+      "has_nether_brick": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/crimson_trim": {
+    "criteria": {
+      "has_planks": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/bamboo": {
+    "criteria": {
+      "has_bamboo": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/spruce": {
+    "criteria": {
+      "has_spruce": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/drawer_key": {
+    "criteria": {
+      "has_template": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_leather": {
+    "criteria": {
+      "has_leather": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/min_redstone_upgrade": {
+    "criteria": {
+      "has_template": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-03-29 10:34:50 +0100"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_paper": {
+    "criteria": {
+      "has_paper": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/end": {
+    "criteria": {
+      "has_end_brick": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "clover_patch": "2025-03-29 10:24:05 +0100",
+      "maple_woods": "2025-03-29 10:36:38 +0100",
+      "moor": "2025-03-29 10:27:37 +0100",
+      "crag": "2025-03-29 10:37:15 +0100"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/warped_trim": {
+    "criteria": {
+      "has_planks": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/jungle_trim": {
+    "criteria": {
+      "has_planks": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mud_brick": {
+    "criteria": {
+      "has_qq": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/max_redstone_upgrade": {
+    "criteria": {
+      "has_template": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-03-29 10:32:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-03-29 10:32:15 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/redstone_upgrade": {
+    "criteria": {
+      "has_template": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/spruce_trim": {
+    "criteria": {
+      "has_planks": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-03-29 10:32:15 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/quantify_key": {
+    "criteria": {
+      "has_template": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/dark_oak_trim": {
+    "criteria": {
+      "has_planks": "2025-03-29 10:31:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:jagged_peaks": "2025-03-29 10:38:21 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
