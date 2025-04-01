@@ -2513,6 +2513,7 @@
       "minecraft:grove": "2025-03-28 19:01:00 +0100",
       "minecraft:jagged_peaks": "2025-03-28 19:01:27 +0100",
       "minecraft:ocean": "2025-03-28 13:17:25 +0100",
+      "minecraft:snowy_beach": "2025-03-31 20:40:16 +0200",
       "minecraft:deep_dark": "2025-03-28 12:58:49 +0100"
     },
     "done": false
@@ -8124,6 +8125,30 @@
   "biomesoplenty:recipes/misc/purple_dye_from_violet": {
     "criteria": {
       "has_flower": "2025-03-29 10:27:53 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-03-31 21:06:52 +0200"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/misc/core_destruction": {
+    "criteria": {
+      "has_item": "2025-03-31 20:56:10 +0200"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-03-31 20:54:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-03-31 20:56:10 +0200"
     },
     "done": true
   },

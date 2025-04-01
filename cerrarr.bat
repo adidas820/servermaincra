@@ -1,7 +1,7 @@
 @echo off
 taskkill /im java.exe 
 
-echo Espera a que se cierre lol
+echo Adi la chupa por un bocata lomo ya
 timeout /t 10 /nobreak >nul
 
 for /f "tokens=2 delims==" %%I in ('wmic os get localdatetime /value ^| find "="') do set datetime=%%I
