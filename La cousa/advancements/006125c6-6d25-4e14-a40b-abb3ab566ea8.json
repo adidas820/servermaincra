@@ -2234,6 +2234,7 @@
       "minecraft:forest": "2025-03-31 22:44:57 +0200",
       "minecraft:lush_caves": "2025-03-31 20:18:59 +0200",
       "minecraft:windswept_forest": "2025-03-31 22:46:13 +0200",
+      "minecraft:ocean": "2025-04-01 19:19:00 +0200",
       "minecraft:old_growth_spruce_taiga": "2025-03-31 22:46:23 +0200",
       "minecraft:snowy_beach": "2025-03-30 15:09:40 +0200",
       "minecraft:deep_dark": "2025-03-29 10:19:48 +0100",
@@ -8601,72 +8602,6 @@
     },
     "done": true
   },
-  "tfmg:recipes/building_blocks/galena_from_stone_types_galena_stonecutting": {
-    "criteria": {
-      "has_stone_types_galena": "2025-03-31 22:53:54 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-03-31 22:49:03 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite": {
-    "criteria": {
-      "has_diorite": "2025-03-31 22:35:33 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-03-31 22:49:03 +0200"
-    },
-    "done": true
-  },
-  "tfmg:recipes/building_blocks/polished_cut_galena_stairs_from_stone_types_galena_stonecutting": {
-    "criteria": {
-      "has_stone_types_galena": "2025-03-31 22:53:54 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-03-31 22:49:03 +0200"
-    },
-    "done": true
-  },
-  "tfmg:recipes/building_blocks/small_galena_bricks_from_stone_types_galena_stonecutting": {
-    "criteria": {
-      "has_stone_types_galena": "2025-03-31 22:53:54 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-03-31 22:35:33 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-03-31 22:49:03 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2025-03-31 22:42:55 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-03-31 22:49:03 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2025-03-31 22:32:56 +0200"
@@ -8679,9 +8614,27 @@
     },
     "done": true
   },
-  "tfmg:recipes/building_blocks/layered_galena_from_stone_types_galena_stonecutting": {
+  "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
-      "has_stone_types_galena": "2025-03-31 22:53:54 +0200"
+      "has_amethyst_shard": "2025-03-31 22:32:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-31 22:32:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-03-31 22:35:33 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-03-31 22:35:33 +0200"
     },
     "done": true
   },
@@ -8703,18 +8656,6 @@
     },
     "done": true
   },
-  "tfmg:recipes/building_blocks/cut_galena_bricks_from_stone_types_galena_stonecutting": {
-    "criteria": {
-      "has_stone_types_galena": "2025-03-31 22:53:54 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/brass_hull": {
-    "criteria": {
-      "has_item": "2025-03-31 23:28:19 +0200"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-03-31 22:35:33 +0200"
@@ -8727,33 +8668,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/brass_ingot_from_decompacting": {
-    "criteria": {
-      "has_item": "2025-03-31 23:28:19 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-03-31 22:49:03 +0200"
-    },
-    "done": true
-  },
-  "tfmg:recipes/building_blocks/small_galena_brick_stairs_from_stone_types_galena_stonecutting": {
-    "criteria": {
-      "has_stone_types_galena": "2025-03-31 22:53:54 +0200"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-03-31 22:35:33 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-03-31 22:55:40 +0200"
     },
     "done": true
   },
@@ -8775,33 +8692,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-03-31 22:55:40 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-03-31 22:35:33 +0200"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-03-31 22:49:03 +0200"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-03-31 22:35:33 +0200"
-    },
-    "done": true
-  },
-  "tfmg:recipes/building_blocks/polished_cut_galena_wall_from_stone_types_galena_stonecutting": {
-    "criteria": {
-      "has_stone_types_galena": "2025-03-31 22:53:54 +0200"
     },
     "done": true
   },
@@ -8823,18 +8722,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-03-31 22:49:03 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/building_blocks/verdant_bricks": {
-    "criteria": {
-      "has_item": "2025-03-31 22:49:03 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-31 22:35:33 +0200"
@@ -8853,27 +8740,9 @@
     },
     "done": true
   },
-  "tfmg:recipes/building_blocks/small_galena_brick_wall_from_stone_types_galena_stonecutting": {
-    "criteria": {
-      "has_stone_types_galena": "2025-03-31 22:53:54 +0200"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-03-31 22:35:33 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-03-31 22:49:03 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/amethyst_block": {
-    "criteria": {
-      "has_amethyst_shard": "2025-03-31 22:32:56 +0200"
     },
     "done": true
   },
@@ -8889,27 +8758,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-03-31 22:49:03 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-03-31 22:35:33 +0200"
-    },
-    "done": true
-  },
-  "tfmg:recipes/building_blocks/small_galena_brick_slab_from_stone_types_galena_stonecutting": {
-    "criteria": {
-      "has_stone_types_galena": "2025-03-31 22:53:54 +0200"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
-    "criteria": {
-      "has_pumpkin": "2025-03-31 22:42:55 +0200"
     },
     "done": true
   },
@@ -8925,21 +8776,159 @@
     },
     "done": true
   },
-  "tfmg:recipes/building_blocks/cut_galena_brick_slab_from_stone_types_galena_stonecutting": {
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
-      "has_stone_types_galena": "2025-03-31 22:53:54 +0200"
+      "has_diorite": "2025-03-31 22:35:33 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/tools/spyglass": {
+  "mcwbridges:recipes/diorite_bridge_pier": {
     "criteria": {
-      "has_amethyst_shard": "2025-03-31 22:32:56 +0200"
+      "has_planks": "2025-03-31 22:35:33 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+  "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
-      "has_log": "2025-03-31 23:30:00 +0200"
+      "has_stone": "2025-03-31 22:35:33 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-03-31 22:35:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-03-31 22:35:33 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-03-31 22:35:33 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-03-31 22:35:33 +0200"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/diorite_bridge": {
+    "criteria": {
+      "has_planks": "2025-03-31 22:35:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-03-31 22:35:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-03-31 22:39:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-03-31 22:39:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-03-31 22:42:55 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-03-31 22:42:55 +0200"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-03-31 22:42:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-03-31 22:42:55 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-31 22:49:03 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-31 22:49:03 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-31 22:49:03 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-31 22:49:03 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-31 22:49:03 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-31 22:49:03 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-31 22:49:03 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-31 22:49:03 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/verdant_bricks": {
+    "criteria": {
+      "has_item": "2025-03-31 22:49:03 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-31 22:49:03 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-31 22:49:03 +0200"
     },
     "done": true
   },
@@ -8961,81 +8950,9 @@
     },
     "done": true
   },
-  "tfmg:recipes/building_blocks/polished_cut_galena_slab_from_stone_types_galena_stonecutting": {
-    "criteria": {
-      "has_stone_types_galena": "2025-03-31 22:53:54 +0200"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/pumpkin": {
-    "criteria": {
-      "has_pumpkin": "2025-03-31 22:42:55 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-03-31 22:35:33 +0200"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/diorite_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-03-31 22:35:33 +0200"
-    },
-    "done": true
-  },
-  "tfmg:recipes/building_blocks/galena_pillar_from_stone_types_galena_stonecutting": {
-    "criteria": {
-      "has_stone_types_galena": "2025-03-31 22:53:54 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-03-31 22:55:40 +0200"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-03-31 22:49:03 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite": {
-    "criteria": {
-      "has_stone": "2025-03-31 22:35:33 +0200"
-    },
-    "done": true
-  },
-  "tfmg:recipes/building_blocks/cut_galena_stairs_from_stone_types_galena_stonecutting": {
-    "criteria": {
-      "has_stone_types_galena": "2025-03-31 22:53:54 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-03-31 23:30:00 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-03-31 22:35:33 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
-    "criteria": {
-      "has_deepslate_redstone_ore": "2025-03-31 22:39:05 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-03-31 22:35:33 +0200"
     },
     "done": true
   },
@@ -9069,15 +8986,81 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/brass_hull_from_stonecutting": {
+  "tfmg:recipes/building_blocks/galena_from_stone_types_galena_stonecutting": {
     "criteria": {
-      "has_item": "2025-03-31 23:28:19 +0200"
+      "has_stone_types_galena": "2025-03-31 22:53:54 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/misc/pumpkin_seeds": {
+  "tfmg:recipes/building_blocks/polished_cut_galena_stairs_from_stone_types_galena_stonecutting": {
     "criteria": {
-      "has_pumpkin": "2025-03-31 22:42:55 +0200"
+      "has_stone_types_galena": "2025-03-31 22:53:54 +0200"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/small_galena_bricks_from_stone_types_galena_stonecutting": {
+    "criteria": {
+      "has_stone_types_galena": "2025-03-31 22:53:54 +0200"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/layered_galena_from_stone_types_galena_stonecutting": {
+    "criteria": {
+      "has_stone_types_galena": "2025-03-31 22:53:54 +0200"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/cut_galena_bricks_from_stone_types_galena_stonecutting": {
+    "criteria": {
+      "has_stone_types_galena": "2025-03-31 22:53:54 +0200"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/small_galena_brick_stairs_from_stone_types_galena_stonecutting": {
+    "criteria": {
+      "has_stone_types_galena": "2025-03-31 22:53:54 +0200"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/polished_cut_galena_wall_from_stone_types_galena_stonecutting": {
+    "criteria": {
+      "has_stone_types_galena": "2025-03-31 22:53:54 +0200"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/small_galena_brick_wall_from_stone_types_galena_stonecutting": {
+    "criteria": {
+      "has_stone_types_galena": "2025-03-31 22:53:54 +0200"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/small_galena_brick_slab_from_stone_types_galena_stonecutting": {
+    "criteria": {
+      "has_stone_types_galena": "2025-03-31 22:53:54 +0200"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/cut_galena_brick_slab_from_stone_types_galena_stonecutting": {
+    "criteria": {
+      "has_stone_types_galena": "2025-03-31 22:53:54 +0200"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/polished_cut_galena_slab_from_stone_types_galena_stonecutting": {
+    "criteria": {
+      "has_stone_types_galena": "2025-03-31 22:53:54 +0200"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/galena_pillar_from_stone_types_galena_stonecutting": {
+    "criteria": {
+      "has_stone_types_galena": "2025-03-31 22:53:54 +0200"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/cut_galena_stairs_from_stone_types_galena_stonecutting": {
+    "criteria": {
+      "has_stone_types_galena": "2025-03-31 22:53:54 +0200"
     },
     "done": true
   },
@@ -9087,33 +9070,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
-    "criteria": {
-      "has_deepslate_redstone_ore": "2025-03-31 22:39:05 +0200"
-    },
-    "done": true
-  },
   "tfmg:recipes/building_blocks/cut_galena_brick_wall_from_stone_types_galena_stonecutting": {
     "criteria": {
       "has_stone_types_galena": "2025-03-31 22:53:54 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-03-31 22:35:33 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-03-31 22:35:33 +0200"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/diorite_bridge": {
-    "criteria": {
-      "has_planks": "2025-03-31 22:35:33 +0200"
     },
     "done": true
   },
@@ -9141,9 +9100,285 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
-      "has_diorite": "2025-03-31 22:35:33 +0200"
+      "has_kelp": "2025-03-31 22:55:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-03-31 22:55:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-03-31 22:55:40 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_hull": {
+    "criteria": {
+      "has_item": "2025-03-31 23:28:19 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_ingot_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-03-31 23:28:19 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-03-31 23:28:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-31 23:30:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-31 23:30:00 +0200"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/misc/core_destruction": {
+    "criteria": {
+      "has_item": "2025-04-01 19:32:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-04-01 19:32:38 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-04-01 20:53:28 +0200"
+    },
+    "done": true
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2025-04-01 22:30:33 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/yellow_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-04-01 22:34:31 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/orange_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-04-01 22:34:31 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/purple_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-04-01 22:34:31 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/cyan_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-04-01 22:34:31 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brown_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-04-01 22:34:31 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/lime_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-04-01 22:34:31 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/pink_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-04-01 22:34:31 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/red_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-04-01 22:34:31 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/magenta_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-04-01 22:34:31 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/light_blue_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-04-01 22:34:31 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/blue_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-04-01 22:34:31 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/white_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-04-01 22:34:31 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/gray_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-04-01 22:34:31 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/light_gray_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-04-01 22:34:31 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/black_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-04-01 22:34:31 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/green_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-04-01 22:34:31 +0200"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-04-01 22:39:21 +0200"
+    },
+    "done": true
+  },
+  "create:stressometer_maxed": {
+    "criteria": {
+      "0": "2025-04-01 22:54:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-04-02 00:05:57 +0200"
+    },
+    "done": true
+  },
+  "chunkloaders:recipes/misc/ultimate_chunk_loader": {
+    "criteria": {
+      "recipe_condition": "2025-04-02 00:18:53 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhutswineherder": {
+    "criteria": {
+      "has_items": "2025-04-02 00:12:23 +0200"
+    },
+    "done": true
+  },
+  "chunkloaders:recipes/misc/single_chunk_loader": {
+    "criteria": {
+      "recipe_condition": "2025-04-02 00:18:16 +0200"
+    },
+    "done": true
+  },
+  "chunkloaders:recipes/misc/advanced_chunk_loader": {
+    "criteria": {
+      "recipe_condition": "2025-04-02 00:18:16 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhuthospital": {
+    "criteria": {
+      "has_items": "2025-04-02 00:12:20 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhutnetherworker": {
+    "criteria": {
+      "has_items": "2025-04-02 00:15:23 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhutmechanic": {
+    "criteria": {
+      "has_items": "2025-04-02 00:11:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-02 00:16:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-02 00:16:26 +0200"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-02 00:16:26 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhutglassblower": {
+    "criteria": {
+      "has_items": "2025-04-02 00:16:12 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-02 00:16:26 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhutchickenherder": {
+    "criteria": {
+      "has_items": "2025-04-02 00:11:57 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhutlibrary": {
+    "criteria": {
+      "has_items": "2025-04-02 00:11:57 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhutuniversity": {
+    "criteria": {
+      "has_items": "2025-04-02 00:11:57 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhutcitizen": {
+    "criteria": {
+      "has_items": "2025-04-02 00:11:57 +0200"
     },
     "done": true
   },
