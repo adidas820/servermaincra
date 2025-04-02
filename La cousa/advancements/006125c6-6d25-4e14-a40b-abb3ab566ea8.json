@@ -1749,7 +1749,8 @@
       "minecraft:piglin": "2025-03-31 21:47:03 +0200",
       "minecraft:enderman": "2025-03-26 21:10:25 +0100",
       "minecraft:zombie": "2025-03-26 21:10:06 +0100",
-      "minecraft:drowned": "2025-03-30 15:04:23 +0200"
+      "minecraft:drowned": "2025-03-30 15:04:23 +0200",
+      "minecraft:zombie_villager": "2025-04-02 19:15:12 +0200"
     },
     "done": false
   },
@@ -2233,10 +2234,12 @@
       "minecraft:river": "2025-03-29 10:29:43 +0100",
       "minecraft:lukewarm_ocean": "2025-03-30 14:17:37 +0200",
       "minecraft:stony_shore": "2025-03-29 19:23:54 +0100",
+      "minecraft:dripstone_caves": "2025-04-02 19:28:28 +0200",
       "minecraft:jagged_peaks": "2025-03-31 22:57:45 +0200",
       "minecraft:cold_ocean": "2025-03-30 15:22:41 +0200",
       "minecraft:forest": "2025-03-31 22:44:57 +0200",
       "minecraft:lush_caves": "2025-03-31 20:18:59 +0200",
+      "minecraft:frozen_ocean": "2025-04-02 19:31:58 +0200",
       "minecraft:windswept_forest": "2025-03-31 22:46:13 +0200",
       "minecraft:ocean": "2025-04-01 19:19:00 +0200",
       "minecraft:old_growth_spruce_taiga": "2025-03-31 22:46:23 +0200",
@@ -5823,6 +5826,7 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "minecraft:persian": "2025-04-02 22:43:17 +0200",
       "minecraft:red": "2025-03-30 14:24:18 +0200"
     },
     "done": false
@@ -9481,6 +9485,228 @@
   "minecolonies:recipes/misc/blockhutbuilder": {
     "criteria": {
       "has_items": "2025-04-02 11:44:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-04-02 18:50:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-02 18:53:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-02 19:03:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-04-02 19:28:39 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-02 19:31:04 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-02 19:31:04 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-02 19:31:04 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-02 19:31:04 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-02 19:31:04 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-02 19:31:04 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-02 19:31:04 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-02 19:31:04 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-02 19:31:04 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-02 19:31:04 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-02 19:31:04 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-02 19:31:04 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-02 19:31:04 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-02 19:31:04 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-02 19:31:04 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-02 19:31:04 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-02 19:31:04 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-02 19:31:04 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-02 19:31:04 +0200"
+    },
+    "done": true
+  },
+  "create:arm_many_targets": {
+    "criteria": {
+      "0": "2025-04-02 20:38:00 +0200"
+    },
+    "done": true
+  },
+  "create:arm_blaze_burner": {
+    "criteria": {
+      "0": "2025-04-02 20:38:00 +0200"
+    },
+    "done": true
+  },
+  "create:steam_engine": {
+    "criteria": {
+      "0": "2025-04-02 20:53:51 +0200"
+    },
+    "done": true
+  },
+  "create:mechanical_arm": {
+    "criteria": {
+      "0": "2025-04-02 20:53:52 +0200"
+    },
+    "done": true
+  },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2025-04-02 21:02:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-04-02 22:45:30 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-04-02 23:06:52 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-04-02 23:06:52 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-04-02 23:06:52 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_slab_recycling": {
+    "criteria": {
+      "has_cut_veridium_slab": "2025-04-02 23:08:14 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-04-02 23:10:31 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-02 23:10:31 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-02 23:10:31 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-04-02 23:10:31 +0200"
     },
     "done": true
   },
