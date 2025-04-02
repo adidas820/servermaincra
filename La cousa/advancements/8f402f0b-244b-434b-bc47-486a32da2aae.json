@@ -1125,6 +1125,7 @@
       "cooked_porkchop": "2025-03-26 20:59:56 +0100",
       "cooked_mutton": "2025-03-26 22:15:01 +0100",
       "baked_potato": "2025-03-28 19:27:15 +0100",
+      "apple": "2025-04-02 17:02:22 +0200",
       "bread": "2025-03-28 19:04:55 +0100",
       "cooked_chicken": "2025-03-28 12:41:11 +0100"
     },
@@ -8128,9 +8129,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/apple_cider": {
+  "create:belt": {
     "criteria": {
-      "has_apple": "2025-03-31 21:06:52 +0200"
+      "0": "2025-03-31 20:54:47 +0200"
     },
     "done": true
   },
@@ -8140,15 +8141,21 @@
     },
     "done": true
   },
-  "create:belt": {
-    "criteria": {
-      "0": "2025-03-31 20:54:47 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-03-31 20:56:10 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-03-31 21:06:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-02 17:20:05 +0200"
     },
     "done": true
   },
