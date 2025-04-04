@@ -3255,6 +3255,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-04-04 22:42:54 +0200",
+      "tomato": "2025-04-04 22:42:09 +0200",
       "sugar_cane": "2025-03-29 19:13:23 +0100",
       "nether_wart": "2025-03-30 18:57:29 +0200",
       "wheat": "2025-03-30 14:19:33 +0200"
@@ -9707,6 +9709,30 @@
   "farmersdelight:recipes/building_blocks/onion_crate": {
     "criteria": {
       "has_onion": "2025-04-02 23:10:31 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-04-04 22:42:05 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-04 22:42:05 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-04-04 22:42:05 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-04-04 22:42:05 +0200"
     },
     "done": true
   },
