@@ -685,6 +685,7 @@
       "minecraft:zombified_piglin": "2025-03-31 21:09:05 +0200",
       "minecraft:witch": "2025-03-31 20:33:26 +0200",
       "minecraft:piglin": "2025-03-30 16:18:40 +0200",
+      "minecraft:enderman": "2025-04-05 19:17:58 +0200",
       "minecraft:zombie": "2025-03-29 18:25:12 +0100",
       "minecraft:drowned": "2025-03-30 16:56:51 +0200",
       "minecraft:zombie_villager": "2025-03-30 16:43:08 +0200"
@@ -1319,6 +1320,7 @@
     "criteria": {
       "cooked_mutton": "2025-03-29 18:35:20 +0100",
       "sweet_berries": "2025-03-30 15:17:43 +0200",
+      "apple": "2025-04-05 20:03:41 +0200",
       "cooked_cod": "2025-03-30 17:20:00 +0200",
       "mutton": "2025-03-31 21:42:39 +0200",
       "bread": "2025-03-29 19:09:56 +0100",
@@ -5768,9 +5770,10 @@
   },
   "create:wrench_goggles": {
     "criteria": {
+      "0": "2025-04-05 20:23:17 +0200",
       "1": "2025-03-31 21:20:26 +0200"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
     "criteria": {
@@ -8008,27 +8011,9 @@
     },
     "done": true
   },
-  "railways:recipes/misc/crafting/track_switch_brass": {
+  "create:brass_casing": {
     "criteria": {
-      "has_item": "2025-04-05 17:31:10 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/brass_bars_overlay": {
-    "criteria": {
-      "has_item": "2025-04-05 17:32:16 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/light_gray_placard": {
-    "criteria": {
-      "has_item": "2025-04-05 17:32:16 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/cyan_placard": {
-    "criteria": {
-      "has_item": "2025-04-05 17:32:16 +0200"
+      "0": "2025-04-05 16:47:54 +0200"
     },
     "done": true
   },
@@ -8047,6 +8032,156 @@
   "create:recipes/misc/crafting/logistics/display_link": {
     "criteria": {
       "has_item": "2025-04-05 16:47:57 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/redstone_contact": {
+    "criteria": {
+      "has_item": "2025-04-05 16:47:57 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/clockwork_bearing": {
+    "criteria": {
+      "has_item": "2025-04-05 16:47:57 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rotation_speed_controller": {
+    "criteria": {
+      "has_item": "2025-04-05 16:47:57 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_arm": {
+    "criteria": {
+      "has_item": "2025-04-05 16:47:57 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_crafter": {
+    "criteria": {
+      "has_item": "2025-04-05 16:47:57 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/redstone_link": {
+    "criteria": {
+      "has_item": "2025-04-05 16:47:57 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brass_door": {
+    "criteria": {
+      "has_item": "2025-04-05 16:47:57 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/stockpile_switch": {
+    "criteria": {
+      "has_item": "2025-04-05 16:47:57 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sequenced_gearshift": {
+    "criteria": {
+      "has_item": "2025-04-05 16:47:57 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nixie_tube": {
+    "criteria": {
+      "has_item": "2025-04-05 16:47:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-04-05 16:53:54 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/linked_controller": {
+    "criteria": {
+      "has_item": "2025-04-05 16:57:00 +0200"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/quickfiring_mechanism": {
+    "criteria": {
+      "has_lever": "2025-04-05 16:59:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-04-05 17:12:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-05 17:12:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-04-05 17:12:31 +0200"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-05 17:16:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-05 17:16:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-05 17:16:09 +0200"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/track_switch_brass": {
+    "criteria": {
+      "has_item": "2025-04-05 17:31:10 +0200"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/remote_lens": {
+    "criteria": {
+      "has_item": "2025-04-05 17:31:10 +0200"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2025-04-05 17:31:10 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_bars_overlay": {
+    "criteria": {
+      "has_item": "2025-04-05 17:32:16 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/light_gray_placard": {
+    "criteria": {
+      "has_item": "2025-04-05 17:32:16 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/cyan_placard": {
+    "criteria": {
+      "has_item": "2025-04-05 17:32:16 +0200"
     },
     "done": true
   },
@@ -8074,21 +8209,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/standard_smithing": {
-    "criteria": {
-      "has_standard": "2025-04-05 17:53:24 +0200"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/blue_brass_lamp": {
     "criteria": {
       "has_item": "2025-04-05 17:32:16 +0200"
-    },
-    "done": true
-  },
-  "travelersbackpack:standard_from_custom": {
-    "criteria": {
-      "has_backpack": "2025-04-05 17:53:24 +0200"
     },
     "done": true
   },
@@ -8104,18 +8227,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/logistics/redstone_contact": {
-    "criteria": {
-      "has_item": "2025-04-05 16:47:57 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_flint": "2025-04-05 17:12:31 +0200"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/blue_placard": {
     "criteria": {
       "has_item": "2025-04-05 17:32:16 +0200"
@@ -8128,33 +8239,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/lapis": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-04-05 17:16:09 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/clockwork_bearing": {
-    "criteria": {
-      "has_item": "2025-04-05 16:47:57 +0200"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/light_blue_placard": {
     "criteria": {
       "has_item": "2025-04-05 17:32:16 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/rotation_speed_controller": {
-    "criteria": {
-      "has_item": "2025-04-05 16:47:57 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-04-05 17:12:31 +0200"
     },
     "done": true
   },
@@ -8164,39 +8251,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-04-05 17:16:09 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_arm": {
-    "criteria": {
-      "has_item": "2025-04-05 16:47:57 +0200"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/orange_placard": {
     "criteria": {
       "has_item": "2025-04-05 17:32:16 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2025-04-05 16:53:54 +0200"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/pink_placard": {
     "criteria": {
       "has_item": "2025-04-05 17:32:16 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/linked_controller": {
-    "criteria": {
-      "has_item": "2025-04-05 16:57:00 +0200"
     },
     "done": true
   },
@@ -8212,39 +8275,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/mechanical_crafter": {
-    "criteria": {
-      "has_item": "2025-04-05 16:47:57 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-04-05 17:16:09 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/redstone_link": {
-    "criteria": {
-      "has_item": "2025-04-05 16:47:57 +0200"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/green_brass_lamp": {
     "criteria": {
       "has_item": "2025-04-05 17:32:16 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_flint": "2025-04-05 17:12:31 +0200"
-    },
-    "done": true
-  },
-  "create:brass_casing": {
-    "criteria": {
-      "0": "2025-04-05 16:47:54 +0200"
     },
     "done": true
   },
@@ -8254,33 +8287,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/brass_door": {
-    "criteria": {
-      "has_item": "2025-04-05 16:47:57 +0200"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/yellow_brass_lamp": {
     "criteria": {
       "has_item": "2025-04-05 17:32:16 +0200"
-    },
-    "done": true
-  },
-  "createbigcannons:recipes/misc/quickfiring_mechanism": {
-    "criteria": {
-      "has_lever": "2025-04-05 16:59:35 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/stockpile_switch": {
-    "criteria": {
-      "has_item": "2025-04-05 16:47:57 +0200"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/remote_lens": {
-    "criteria": {
-      "has_item": "2025-04-05 17:31:10 +0200"
     },
     "done": true
   },
@@ -8290,21 +8299,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/sequenced_gearshift": {
-    "criteria": {
-      "has_item": "2025-04-05 16:47:57 +0200"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/brass_catwalk_railing_forge": {
     "criteria": {
       "has_item": "2025-04-05 17:32:16 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/nixie_tube": {
-    "criteria": {
-      "has_item": "2025-04-05 16:47:57 +0200"
     },
     "done": true
   },
@@ -8320,15 +8317,69 @@
     },
     "done": true
   },
-  "create:precision_mechanism": {
-    "criteria": {
-      "0": "2025-04-05 17:31:10 +0200"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/green_placard": {
     "criteria": {
       "has_item": "2025-04-05 17:32:16 +0200"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-04-05 17:53:24 +0200"
+    },
+    "done": true
+  },
+  "travelersbackpack:standard_from_custom": {
+    "criteria": {
+      "has_backpack": "2025-04-05 17:53:24 +0200"
+    },
+    "done": true
+  },
+  "chunkloaders:recipes/misc/basic_chunk_loader": {
+    "criteria": {
+      "recipe_condition": "2025-04-05 19:17:58 +0200"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-05 19:17:58 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-04-05 19:55:28 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "grilled_salmon": "2025-04-05 19:55:28 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-04-05 19:55:28 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-04-05 19:55:28 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-04-05 19:55:28 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-04-05 20:03:39 +0200"
     },
     "done": true
   },
